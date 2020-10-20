@@ -8,8 +8,8 @@ Assigned to: Ananya
 3. Resolve bug: Content load time issues
 Quick loading of page and details.
 Assigned to: Dhanraj
-4. Add Missing Feature: Logout
-No logout button/option available.
+4. Fix feature: Minimum Password length
+A generic error message is displayed if password strength is low. Fix this issue
 Assigned to: Ayush
 5. Perform Unit Testing
 Add test cases and perform regular testing.
@@ -23,8 +23,8 @@ Assigned to: Dhanraj
 8. ER diagrams
 Include an ER diagram for the database
 Assigned to: Sakshi
-9. Add feature: Upload pictures as screams
-Add an option to upload images in the post.
+9. Fix feature: Upload profile image
+Unable to upload the profile image when logged in.
 Assigned to: Ayush
 10. Add feature: Search bar to find other accounts
 Allow users to find other users and connect.
