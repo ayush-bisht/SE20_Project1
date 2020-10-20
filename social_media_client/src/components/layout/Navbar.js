@@ -11,13 +11,24 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Button from '@material-ui/core/Button';
 // Icons
 import HomeIcon from '@material-ui/icons/Home';
+import SurroundSoundTwoToneIcon from '@material-ui/icons/SurroundSoundTwoTone';import { logoutUser} from '../../redux/actions/userActions';
+import PowerSettingsNewTwoToneIcon from '@material-ui/icons/PowerSettingsNewTwoTone';
+import Typography from '@material-ui/core/Typography';
 
 class Navbar extends Component {
+  handleLogout = () => {
+    const { logoutUser } = this.props;
+    //this.props.logoutUser();
+    logoutUser();
+  };
   render() {
     const { authenticated } = this.props;
     return (
-      <AppBar>
-        <Toolbar className="nav-container">
+      <AppBar style={{ background: '#ba2f2f' }}>
+        <Toolbar variant="dense">
+        <Button color="inherit" component={Link} to="/">
+        <SurroundSoundTwoToneIcon /> Scream
+        </Button>
           {authenticated ? (
             <Fragment>
               <PostScream />
@@ -27,16 +38,16 @@ class Navbar extends Component {
                 </MyButton>
               </Link>
               <Notifications />
+              <MyButton className="nav-container" color="inherit" tip="Logout" onClick={this.handleLogout}>
+                <PowerSettingsNewTwoToneIcon />
+              </MyButton>
             </Fragment>
           ) : (
             <Fragment>
-              <Button color="inherit" component={Link} to="/login">
+              <Button className="nav-container" color="inherit" component={Link} to="/login">
                 Login
               </Button>
-              <Button color="inherit" component={Link} to="/">
-                Home
-              </Button>
-              <Button color="inherit" component={Link} to="/signup">
+              <Button className="nav-container" color="inherit" component={Link} to="/signup">
                 Signup
               </Button>
             </Fragment>

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import withStyles from '@material-ui/core/styles/withStyles';
 import PropTypes from 'prop-types';
-import AppIcon from '../images/icon.png';
+import AppIcon from '../images/scream.png';
 import { Link } from 'react-router-dom';
 
 // MUI Stuff
@@ -63,7 +63,7 @@ class signup extends Component {
       <Grid container className={classes.form}>
         <Grid item sm />
         <Grid item sm>
-          <img src={AppIcon} alt="monkey" className={classes.image} />
+          <img src={AppIcon} width="100px" height="auto" alt="scream" className={classes.image} />
           <Typography variant="h2" className={classes.pageTitle}>
             SignUp
           </Typography>
