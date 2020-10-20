@@ -1,0 +1,44 @@
+
+SE PROJECT PART-2
+This document gives a detailed idea about the file structure of the project. This is important for anyone who wishes to pick this up for the next part.The project is a web-application. It has three major parts front-end, back-end and database.
+Front - end is done using react JS.
+Back-end is done using javascript and Express JS
+Database is maintained by Firebase
+And the connection between front-end and back-end is done using redux.
+
+If you have a look at the repo, the social_media folder contains files for back-end and the social_media_client folder contains files for front-end.The social_media folder has a sub-folder named functions. As we integrate firebase in the back-end, we have multiple files auto-created by firebase during the integration. 
+The functions folder has two sub-folders handlers and utils. The handlers folder contains two programs screams.js and users.js
+Screams.js: It deals with the posts. The likes and comments associated with it. It updates database. Also functionalities include, createScream, likeScream, commentScream, loadScream and deleteScream.
+Users.js: It deals with users. Firstly it establishes a connection to firebase. Then if a user signups, it gets added to the database. If a user logins, it checks with the database. Once the user is authenticated, there are many functionalities which this program performs. This program performs signup, login, getUserDetails, addUserDetails, uploadProfileImage, getNotifications and markNotificationRead.
+The utils folder contains four programs admin.js, config.js(auto-generated), fbAuth.js and validators.js
+Admin.js: This contains the credentials to connect with the firebase.
+fbAuth.js: This verifies if the login is successful. The data from users.js login function is send here and the login is verified using userid, password and logintoken. 
+Validators.js: This program validates all pages that require user input. For signup page, it validates if the email id provided is the right regex, it is not empty, the password matches confirm password, etc. For login page, it validates both fields are filled. For profile/user Details page, it validates if bio and location is not empty and the website follows the right regex.
+The social_media_client folder has the code for the front end. If you go to src, you will find multiple sub-folders namely components, images, pages, redux, util and also some other program files. Description of each file within each folder is given below.
+Index.js “loads contents of serviceWorker.js”
+ServiceWorker.js “This optional code is used to register a service worker. This lets the app load faster on subsequent visits in production, and gives it offline capabilities.”
+App.js “loads the other components”
+App.css “contains the css code for basic layout and design”
+Components folder has three subfolders layout, profile, scream.
+Layout folder has two files Navbar.js and Notifications.js
+Navbar.js “renders the navigation bar with button for home, notifications and post a scream if user is logged in or home, login and signup.”
+Navigations.js “this renders a popup menu on clicking the notifications button from navbar. The menu displays unread notifications including likes and comments.”
+The profile folder has three files EditDetails.js, Profile.js, StaticProfile.js 
+EditDetails.js “renders textboxes that allow users to edit the details like location, bio, website in the profile”
+Profile.js “renders the profile for the user”
+StaticProfile “renders the profile for a user that has not logged in”
+The scream folder has multiple files. They are described below:
+CommentForm.js “renders an input field so that user can comment on a scream”
+Comments.js “renders the comments associated with a particular scream”
+DeleteScream.js “renders a delete button and generates a pop-up dialog box to confirm the action on button click.”
+LikeButton.js “renders a like button on the scream and allows user to like/unlike the scream”
+PostScream.js “renders an input field that allows the user to post a new scream”
+Scream.js “renders all the screams taking into account the logged user, also renders all the components like likebutton, comments, etc.”
+ScreamDialog.js “renders the expansion of a scream to display details”
+The images folder contains all the images required to display for the website.
+The pages folder contains four files namely home.js, login.js, signup.js and user.js.
+home.js “renders the scream.js, profile,js and navbar.js”
+login.js  “renders the login page that accepts from user the email id and password”
+
+
+ 
