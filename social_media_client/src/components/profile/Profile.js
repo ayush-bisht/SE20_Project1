@@ -16,6 +16,8 @@ import LocationOn from '@material-ui/icons/LocationOn';
 import LinkIcon from '@material-ui/icons/Link';
 import CalendarToday from '@material-ui/icons/CalendarToday';
 import EditIcon from '@material-ui/icons/Edit';
+import ExitToAppIcon from '@material-ui/icons/ExitToApp';
+import PublishIcon from '@material-ui/icons/Publish';
 import KeyboardReturn from '@material-ui/icons/KeyboardReturn';
 //Redux
 import { connect } from 'react-redux';
@@ -71,7 +73,7 @@ class Profile extends Component {
                 onClick={this.handleEditPicture}
                 btnClassName="button"
               >
-                <EditIcon color="primary" />
+                <PublishIcon color="primary" />
               </MyButton>
             </div>
             <hr />
