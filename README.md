@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/pranav2595/SE20_Project1.svg?branch=master)](https://travis-ci.com/pranav2595/SE20_Project1)
 
 
-# SE20 Project 1 - SCREAM
+# SE20 Project 2 - SCREAM
 
 ## What's SCREAM about?
 Scream is a platform open for all, wherein one can speak their minds freely without fear of oppression.
@@ -46,9 +46,9 @@ Keep a look out on this space for more updates!
 ReactJs,Firebase,Redux,ExpressJS
 
 ## Group Info
-1. Yash Thakkar (yrthakka@ncsu.edu)
-2. Pururaj Dave (pdave2@ncsu.edu)
-3. Yoonchul Ro (yro@ncsu.edu)
-4. Pranav Babulkar (pbabulk@ncsu.edu)
-5. Maharshi Parekh (mgparekh@ncsu.edu)
+1. Ayush Bisht 
+2. Sahski Deshpande
+3. Ananya Nunna
+4. Vijay Anand
+5. Dhanraj Raghunathan
 
