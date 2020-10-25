@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/pranav2595/SE20_Project1.svg?branch=master)](https://travis-ci.com/pranav2595/SE20_Project1)
 
 
-<img src="scream.png" width="300"/> SCREAM
+<img src="./socual_media_client/public/scream.png" width="300"/> SCREAM
 
 
 ## What's SCREAM about?
@@ -15,12 +15,12 @@ Call it your new hangout place!
 
 1. [Visit here!](https://socialape-c629a.web.app/login)
 2. SCREAM main page will show as the below picture. 
-<img src="login.png" width="950"/>
+<img src="./documentation/login.png" width="950"/>
 3. Login if you already have an account. Otherwise, click on "SIGNUP" on the top. 
 4. The following page should show if are trying to create a new account. Fill in the relevant information and click "SIGNUP" on the bottom. 
-<img src="sign_up.png" width="950"/>
+<img src="./documentation/sign_up.png" width="950"/>
 5. After logging in, the home page looks something akin to this - 
-<img src="landing_page.png" width="950"/>
+<img src="./documentation/landing_page.png" width="950"/>
 
 ## 2: Steps to run the project locally:
 
