@@ -4,7 +4,8 @@
 [![Build Status](https://travis-ci.com/pranav2595/SE20_Project1.svg?branch=master)](https://travis-ci.com/pranav2595/SE20_Project1)
 
 
-# SE20 Project 2 - SCREAM
+<img src="scream.png" width="300"/> SCREAM
+
 
 ## What's SCREAM about?
 Scream is a platform open for all, wherein one can speak their minds freely without fear of oppression.
@@ -14,12 +15,12 @@ Call it your new hangout place!
 
 1. [Visit here!](https://socialape-c629a.web.app/login)
 2. SCREAM main page will show as the below picture. 
-![image](https://user-images.githubusercontent.com/62627590/93743384-f968b100-fbbd-11ea-90bc-04c86a5fc348.png)
+<img src="login.png" width="950"/>
 3. Login if you already have an account. Otherwise, click on "SIGNUP" on the top. 
 4. The following page should show if are trying to create a new account. Fill in the relevant information and click "SIGNUP" on the bottom. 
-![image](https://user-images.githubusercontent.com/62627590/93743685-75fb8f80-fbbe-11ea-8b29-e0b7590d08fd.png)
+<img src="sign_up.png" width="950"/>
 5. After logging in, the home page looks something akin to this - 
-![image](https://user-images.githubusercontent.com/20240706/93819062-38801c00-fc29-11ea-9ca2-80aed3f5675d.png)
+<img src="landing_page.png" width="950"/>
 
 ## 2: Steps to run the project locally:
 
