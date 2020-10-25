@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/pranav2595/SE20_Project1.svg?branch=master)](https://travis-ci.com/pranav2595/SE20_Project1)
 
 
-<img src="./socual_media_client/public/scream.png" width="300"/> SCREAM
+<img src="./social_media_client/public/scream.png" width="50"/> <strong> SCREAM </strong> 
 
 
 ## What's SCREAM about?
