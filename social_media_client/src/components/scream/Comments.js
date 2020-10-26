@@ -23,6 +23,15 @@ const styles = (theme) => ({
 class Comments extends Component {
   render() {
     const { comments, classes } = this.props;
+    if (comments === undefined){
+      return (
+        <Fragment>
+          <Grid>
+            <p> No comments! </p>
+          </Grid>
+        </Fragment>
+      )
+    }
     return (
       <Grid container>
         {comments.map((comment, index) => {
