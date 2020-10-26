@@ -240,9 +240,8 @@ exports.uploadImage = (req, res) => {
         },
       })
       .then(() => {
-        // Append token to url
-        const imageUrl = `https://firebasestorage.googleapis.com/v0/b/${config.storageBucket}/o/${imageFileName}?alt=media&token=${generatedToken}`;
-        return db.doc(`/users/${req.user.handle}`).update({ imageUrl });
+        const imageUrl = `https://firebasestorage.googleapis.com/v0/b/${config.storageBucket}/o/${imageFileName}?alt=media`;
+        return admin.firestore().collection('users').doc(`${req.user.handle}`).update({ imageUrl });
       })
       .then(() => {
         return res.json({ message: "image uploaded successfully" });

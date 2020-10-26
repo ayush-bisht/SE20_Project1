@@ -22,6 +22,7 @@ const styles = (theme) => ({
 
 class Comments extends Component {
   render() {
+    console.log(this.props);
     const { comments, classes } = this.props;
     if (comments === undefined){
       return (
