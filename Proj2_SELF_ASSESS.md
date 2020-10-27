@@ -33,22 +33,22 @@
 || Extensive use of syntax checkers. |4|
 || Use of code coverage |0|
 || Extensive use of code coverage |0|
-|| other automated analysis tools|0|
-|| Extensive use of  other automated analysis tools|0|
-|| test cases exist|2|
-|| test cases are routinely executed|0|
+|| other automated analysis tools|4|
+|| Extensive use of  other automated analysis tools|4|
+|| test cases exist|4|
+|| test cases are routinely executed|4|
 | Consensus-oriented model| the files CONTRIBUTING.md and CODEOFCONDUCT.md has have multiple edits by multiple people|4|
 | | the files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|4|
 | | multiple people contribute to discussions|4|
 || issues are discussed before they are closed|4|
-|| Chat channel: exists|2|
-|| Chat channel: is active |2|
-|| Test cases:.a large proportion of the issues related to handling failing cases.|0|
+|| Chat channel: exists|4|
+|| Chat channel: is active |4|
+|| Test cases:.a large proportion of the issues related to handling failing cases.|4|
 | Zero internal boundaries | evidence that the whole team is using the same tools: everyone can get to all tools and files|4|
 | | evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|4|
 | | evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|4|
-| | evidence that the members of the team are working across multiple places in the code base|2|
-| Low-regressions rule | (hard to judge) features released are not subsequently removed||
+| | evidence that the members of the team are working across multiple places in the code base|4|
+| Low-regressions rule | (hard to judge) features released are not subsequently removed|4|
 |Short release cycles | (hard to see in short projects) project members are committing often enough so that everyone can get your work|4|
 
 ## References:
