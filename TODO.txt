@@ -88,3 +88,7 @@ Unable to load the user profile and screams
 Assigned to: Ayush
 Task completed
 
+20. Fix Bug: Back button error
+Going back from the profile page to home gives an error.
+Assigned to: Dhanraj
+Task Completed
