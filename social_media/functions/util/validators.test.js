@@ -55,3 +55,10 @@ test('Login valid check true', () => {
       };
     expect(validateLoginData(logindata).valid).toEqual(true);
 });
+test('Login valid check false', () => {
+    const logindata = {
+        email: "asdcom ",
+        password: "asdasdasdasd",
+      };
+    expect(validateLoginData(logindata).valid).toEqual(false);
+});
