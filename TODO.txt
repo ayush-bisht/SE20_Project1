@@ -52,15 +52,20 @@ In Progress
 10. Add feature: Search bar to find other accounts
 Allow users to find other users and connect.
 Assigned to: Vijay
+
 11. Add feature: Login using existing social media accounts
 Allow users to login via facebook, google and twitter.
 Assigned to: Sakshi
+
 12. Add more information to Profile
 Get more information from user while creating account and display in profile page.
 Assigned to: Ananya
+
 13. Updating Front-end Design
 Need to create a better and appealing front-end than the existing one.
 Assigned to: Ayush
+Task Completed
+
 14. Study feature: Chat Integration
 Reearch about the feasibility of adding chats feature.
 Assigned to: Dhanraj
