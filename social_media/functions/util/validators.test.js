@@ -7,3 +7,10 @@ test('white space check true', () => {
 test('white space check false', () => {
     expect(hasNoWhiteSpace("hello")).toEqual(false);
   });
+
+test('email check true', () => {
+    expect(isEmail("asd@gmail.com")).toEqual(true);
+});
+test('email check false', () => {
+    expect(isEmail("asdw")).toEqual(false);
+});
