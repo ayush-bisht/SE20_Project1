@@ -12,9 +12,7 @@ import Button from '@material-ui/core/Button';
 // Icons
 import HomeIcon from '@material-ui/icons/Home';
 import SurroundSoundTwoToneIcon from '@material-ui/icons/SurroundSoundTwoTone';
-// import { logoutUser} from '../../redux/actions/userActions';
 import PowerSettingsNewTwoToneIcon from '@material-ui/icons/PowerSettingsNewTwoTone';
-// import Typography from '@material-ui/core/Typography';
 
 class Navbar extends Component {
   handleLogout = () => {
