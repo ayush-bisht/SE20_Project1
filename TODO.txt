@@ -29,8 +29,11 @@ Assigned to: Ananya
 Task Completed
 
 7. Resolve bug: Unable to load details view of scream post
+(expanding scream gives an error)
 On clicking the post, it should display the details.
 Assigned to: Dhanraj
+Task Completed
+
 8. ER diagrams
 Include an ER diagram for the database
 Assigned to: Sakshi
