@@ -1,0 +1,63 @@
+EPIC #1
+
+As user
+I want a social media platform
+wherein I can speak my mind freely without fear of oppression
+
+Story #1:
+As a user
+I want to singup for this platform
+so I can post screams and express my thoughts
+
+Story #2:
+As a user
+I want to login to my account
+so I can post screams, like and comment on other media
+
+Story #3:
+As a user
+I want to be able to post new scream
+to convey my thoughts to all the other screamers
+
+Story #4:
+As a user
+I want to update my profile picture and bio
+to keep my profile upto date
+
+Story #5:
+As a user 
+I want to be able to see other user posts
+so I can post my views on those
+
+Story #6:
+As a user
+I want to be able to get notifications about likes and comments on my posts
+
+Story #7:
+As a user 
+I want to be able to search for other users
+
+Story #8:
+As a user 
+I want to be able to connect to other user
+so I can chat with them
+
+
+EPIC #2:
+
+As an admin
+I want to create a secure application
+so that the users can have a safe, toxic free environment to meet new people and have a great online experience.
+
+
+Story #1:
+As an admin
+I want to act as a moderator to ensure that only the right contents are present on the app
+
+Story #2:
+As an admin
+I want to have the ability to prevent certain users from using using the application if required
+
+Story #3:
+As an admin
+I want to be able to view the history/ trend of the application to further make cosmetic/logical modifications 
