@@ -35,7 +35,7 @@ run `npm start`
 go to [http://localhost:3000](http://localhost:3000) (though it should pop-up automatically, if it doesn't click this link.)
 
 ## Link to the video
-[You can find the video here](https://youtu.be/ryBL-0Kn6u8)
+[You can find the video here](https://youtu.be/oUbFHFr1MX8)
 
 ## Watch out for this space!
 Currently looking for people 
