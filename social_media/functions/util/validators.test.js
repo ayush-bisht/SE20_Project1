@@ -47,3 +47,11 @@ test('signup valid check false', () => {
       };
     expect(validateSignupData(checkdata).valid).toEqual(false);
 });
+
+test('Login valid check true', () => {
+    const logindata = {
+        email: "asd@gmail.com",
+        password: "asdasdasdasd",
+      };
+    expect(validateLoginData(logindata).valid).toEqual(true);
+});
