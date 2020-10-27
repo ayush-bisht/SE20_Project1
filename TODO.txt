@@ -16,6 +16,8 @@ Task Completed
 4. Fix feature: Minimum Password length
 A generic error message is displayed if password strength is low when signing up. Fix this issue
 Assigned to: Ayush
+Task Completed
+
 5. Perform Unit Testing
 Add test cases and perform regular testing.
 Assigned to: Vijay
