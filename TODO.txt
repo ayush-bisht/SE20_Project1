@@ -39,9 +39,16 @@ Include an ER diagram for the database
 Assigned to: Sakshi
 Task Completed
 
-9. Fix feature: Upload profile image
+9. Fix feature: Upload profile image (Backend)
 Unable to upload the profile image when logged in.
 Assigned to: Ayush
+Task Completed
+
+10. Fix feature: Upload profile image (Frontend)
+Unable to upload the profile image when logged in.
+Assigned to: Ayush
+In Progress
+
 10. Add feature: Search bar to find other accounts
 Allow users to find other users and connect.
 Assigned to: Vijay
