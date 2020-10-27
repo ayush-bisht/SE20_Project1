@@ -27,3 +27,13 @@ test('password check true', () => {
 test('password check false', () => {
     expect(passwordLength("qwedafggaa")).toEqual(false);
 });
+
+test('signup valid check true', () => {
+    const checkdata = {
+        email: "asdasd@gmail.com",
+        password: "ftyhbvfghnbgh",
+        confirmPassword: "ftyhbvfghnbgh",
+        handle: "asdasd",
+      };
+    expect(validateSignupData(checkdata).valid).toEqual(true);
+});
