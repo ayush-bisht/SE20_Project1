@@ -49,35 +49,37 @@ Unable to upload the profile image when logged in.
 Assigned to: Ayush
 In Progress
 
-10. Add feature: Search bar to find other accounts
+11. Add feature: Search bar to find other accounts
 Allow users to find other users and connect.
 Assigned to: Vijay
 
-11. Add feature: Login using existing social media accounts
+12. Add feature: Login using existing social media accounts
 Allow users to login via facebook, google and twitter.
 Assigned to: Sakshi
 
-12. Add more information to Profile
+13. Add more information to Profile
 Get more information from user while creating account and display in profile page.
 Assigned to: Ananya
 
-13. Updating Front-end Design
+14. Updating Front-end Design
 Need to create a better and appealing front-end than the existing one.
 Assigned to: Ayush
 Task Completed
 
-14. Study feature: Chat Integration
+15. Study feature: Chat Integration
 Reearch about the feasibility of adding chats feature.
 Assigned to: Dhanraj
-15. Add feature: follow other accounts
+
+16. Add feature: follow other accounts
 Allow users to follow other users.
 Assigned to: Vijay
-16. Add feature: dispaly profile pictures
-Display profile pictures with the posts
-Assigned to:
+
 17. Use Case
 Include use case diagrams
-Assigned to:
-18. Class Diagram:
-Include the class diagram
-Assigned to:
+Assigned to: Sakshi
+
+18. Other Documentation:
+Include the file structure of the project
+Assigned to: Sakshi
+Task Completed
+
