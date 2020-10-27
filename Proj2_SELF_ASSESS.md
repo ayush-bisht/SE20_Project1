@@ -25,15 +25,15 @@
 || Extensive use of version control tools |4|
 || Repo has an up-to-date requirements.txt file|4|
 || Repo does not have "ignore" files.|4|
-||Use of  style checkers |0|
-||Extensive Use of  style checkers |0|
-|| Use of code  formatters. |0|
-|| Extensive Use of code  formatters. |0|
-|| Use of syntax checkers. |0|
-|| Extensive use of syntax checkers. |0|
+||Use of  style checkers |4|
+||Extensive Use of  style checkers |4|
+|| Use of code  formatters. |4|
+|| Extensive Use of code  formatters. |4|
+|| Use of syntax checkers. |4|
+|| Extensive use of syntax checkers. |4|
 || Use of code coverage |0|
 || Extensive use of code coverage |0|
-|| other automated analysis tools|2|
+|| other automated analysis tools|0|
 || Extensive use of  other automated analysis tools|0|
 || test cases exist|2|
 || test cases are routinely executed|0|
