@@ -83,3 +83,8 @@ Include the file structure of the project
 Assigned to: Sakshi
 Task Completed
 
+19. Fix Feature: User profile
+Unable to load the user profile and screams
+Assigned to: Ayush
+Task completed
+
