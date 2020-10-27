@@ -37,3 +37,13 @@ test('signup valid check true', () => {
       };
     expect(validateSignupData(checkdata).valid).toEqual(true);
 });
+
+test('signup valid check false', () => {
+    const checkdata = {
+        email: "am",
+        password: "ftyhbvfghnbgh",
+        confirmPassword: "ftyhbvfghnbgh",
+        handle: "asdasd",
+      };
+    expect(validateSignupData(checkdata).valid).toEqual(false);
+});
