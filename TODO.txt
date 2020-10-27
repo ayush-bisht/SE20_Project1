@@ -37,6 +37,8 @@ Task Completed
 8. ER diagrams
 Include an ER diagram for the database
 Assigned to: Sakshi
+Task Completed
+
 9. Fix feature: Upload profile image
 Unable to upload the profile image when logged in.
 Assigned to: Ayush
