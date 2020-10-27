@@ -14,3 +14,16 @@ test('email check true', () => {
 test('email check false', () => {
     expect(isEmail("asdw")).toEqual(false);
 });
+
+test('Empty check true', () => {
+    expect(isNotEmpty("  ")).toEqual(true);
+});
+test('Empty check false', () => {
+    expect(isNotEmpty("asdw")).toEqual(false);
+});
+test('password check true', () => {
+    expect(passwordLength("asdas")).toEqual(true);
+});
+test('password check false', () => {
+    expect(passwordLength("qwedafggaa")).toEqual(false);
+});
