@@ -3,12 +3,16 @@ Tasks with assignee:
 The header always shows login and signup even after a user is logged in. 
 Assigned to: Sakshi
 Task Completed
+
 2. Enhance Feature: Fix the profile section
 Add more user-customized content to Profile Page.
 Assigned to: Ananya
+
 3. Resolve bug: Content load time issues
 Quick loading of page and details.
 Assigned to: Dhanraj
+Task Completed
+
 4. Fix feature: Minimum Password length
 A generic error message is displayed if password strength is low when signing up. Fix this issue
 Assigned to: Ayush
