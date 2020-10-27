@@ -77,6 +77,7 @@ Assigned to: Vijay
 17. Use Case
 Include use case diagrams
 Assigned to: Sakshi
+Task Completed
 
 18. Other Documentation:
 Include the file structure of the project
@@ -92,3 +93,4 @@ Task completed
 Going back from the profile page to home gives an error.
 Assigned to: Dhanraj
 Task Completed
+
