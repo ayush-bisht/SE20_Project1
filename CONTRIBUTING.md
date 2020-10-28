@@ -11,6 +11,9 @@ You can contribute by reporting bugs. Before doing this, first check whether the
 ### Enhancement Suggestion
 Enhancement suggestions are also done through Github Issues. Again, first check whether there is an existing suggestion that conflicts with yours. If there are no existing enhancement suggestions, decide which repository your enhancement suggestion is related to, and create a new issue. 
 
+### Feedback
+You as a user can test the project and give your valuable feedback through this form : https://forms.gle/GNvc3HvXDiz7uytw6 This feedback would help the team and direct towards future goals.
+
 ## What to keep in mind while adding to this repository?
 
 - Firstly, [Create a branch](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) for adding your changes before merging to the main branch.
