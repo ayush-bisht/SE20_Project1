@@ -1,12 +1,9 @@
 [![DOI](https://zenodo.org/badge/295059730.svg)](https://zenodo.org/badge/latestdoi/295059730)
-
-
 [![Build Status](https://travis-ci.com/pranav2595/SE20_Project1.svg?branch=master)](https://travis-ci.com/pranav2595/SE20_Project1)
-
 <a href="https://codeclimate.com/github/sakshipink/SE20_Project1/maintainability"><img src="https://api.codeclimate.com/v1/badges/0398634f3ca008cc367f/maintainability" /></a>
-
 [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
-
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 
 <img src="./social_media_client/public/scream.png" width="50"/> <strong> SCREAM </strong> 
 
