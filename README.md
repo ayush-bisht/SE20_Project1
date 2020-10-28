@@ -5,6 +5,8 @@
 
 <a href="https://codeclimate.com/github/sakshipink/SE20_Project1/maintainability"><img src="https://api.codeclimate.com/v1/badges/0398634f3ca008cc367f/maintainability" /></a>
 
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
+
 
 <img src="./social_media_client/public/scream.png" width="50"/> <strong> SCREAM </strong> 
 
