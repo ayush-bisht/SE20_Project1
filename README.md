@@ -34,7 +34,8 @@ run `npm start`
 
 go to [http://localhost:3000](http://localhost:3000) (though it should pop-up automatically, if it doesn't click this link.)
 
-## Manually test through the app and fill out the survey [https://docs.google.com/forms/d/1u6h0BAdD7Dsi_x82EOvWSR6pO9CiOjOGEhKatg4-apk/edit] (Survey):
+## Manually test through the app and fill out the survey: 
+go to [https://tinyurl.com/y67dkvrw ] (Survey):
 We wold love your valuable input to get the web app to function better!
 
 ## Link to the video
