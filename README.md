@@ -10,7 +10,7 @@
 
 
 ## What's SCREAM about?
-Scream is a platform open for all, wherein one can speak their minds freely without fear of oppression.
+Scream is a platform open for all, where one can speak their minds freely without fear of oppression.
 Call it your new hangout place!
 
 ## 1: To go to the live app, visit the link down below:
@@ -35,7 +35,7 @@ run `npm start`
 go to [http://localhost:3000](http://localhost:3000) (though it should pop-up automatically, if it doesn't click this link.)
 
 ## Manually test through the app and fill out the survey: (https://tinyurl.com/y67dkvrw)
-We wold love your valuable input to get the web app to function better!
+We would love your valuable input to get the web app to function better!
 
 ## Link to the video
 [You can find the video here](https://youtu.be/oUbFHFr1MX8)
@@ -53,7 +53,7 @@ ReactJs,Firebase,Redux,ExpressJS
 
 ## Group Info
 1. Ayush Bisht 
-2. Sahski Deshpande
+2. Sakshi Deshpande
 3. Ananya Nunna
 4. Vijay Anand
 5. Dhanraj Raghunathan
