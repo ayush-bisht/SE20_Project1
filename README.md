@@ -4,6 +4,7 @@
 [![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
+[![Coverage Status](https://coveralls.io/repos/github/sakshipink/SE20_Project1/badge.svg?branch=master)](https://coveralls.io/github/sakshipink/SE20_Project1?branch=master)
 
 <img src="./social_media_client/public/scream.png" width="50"/> <strong> SCREAM </strong> 
 
