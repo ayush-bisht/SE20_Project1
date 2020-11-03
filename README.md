@@ -28,7 +28,7 @@ Call it your new hangout place!
 
 Navigate to ./social_media_client
 
-run `npm install`
+run `rm -rf node_modules && npm install`
 
 run `npm start`
 
