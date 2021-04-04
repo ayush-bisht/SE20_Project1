@@ -58,3 +58,6 @@ ReactJs,Firebase,Redux,ExpressJS
 4. Vijay Anand
 5. Dhanraj Raghunathan
 
+
+## Note
+The website is no longer active.
